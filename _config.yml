@@ -1,11 +1,11 @@
 # Site settings
-author: andrew sidwell
-title: 
+author: Andrew Sidwell
+title: Why I Want To Become A Software Engineer
 header-img: img/home-bg.png
 email: andysidwell96@gmail.com
-copyright_name: andrew sidwell
+copyright_name: Andrew Sidwell
 description: > # this means to ignore newlines until "baseurl:"
-  
+  software engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  sidthekid13
