@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Pokemon API Project"
-date:       2020-09-14 03:42:18 +0000
+date:       2020-09-13 23:42:19 -0400
 permalink:  pokemon_api_project
 ---
 
